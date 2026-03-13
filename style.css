@@ -1,0 +1,38 @@
+.body {
+    font-family: sans-serif;
+}
+
+.fire {
+    border:10px solid red;
+}
+
+.background {
+    background-color:greenyellow;
+    padding: 10px;
+}
+.border {
+    border:10px solid black;
+}
+
+h1 {
+    color: green;
+}
+
+footer p {
+    background-color:chartreuse;
+}
+
+nav {
+    border:2px solid lightblue;
+    padding: 5px;
+}
+
+nav a {
+   text-decoration: none; 
+   font-size: 20px;
+   margin: 25px;
+}
+
+.h11 {
+    color: blue;
+}
